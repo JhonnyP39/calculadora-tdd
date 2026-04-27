@@ -26,3 +26,4 @@ def exponencial(x):
         suma += termino
     return suma
     # implementación inicial
+# refactor código
