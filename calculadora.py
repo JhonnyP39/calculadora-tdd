@@ -25,3 +25,4 @@ def exponencial(x):
         termino = termino * x / i
         suma += termino
     return suma
+    # implementación inicial
