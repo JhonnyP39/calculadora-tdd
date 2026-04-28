@@ -39,4 +39,4 @@ def test_raiz():
 def test_exponencial():
     assert abs(exponencial(1) - 2.718) < 0.001
     # pruebas creadas
->>>>>>> 3b823086489d58905058e4707491cfce270630b1
+
