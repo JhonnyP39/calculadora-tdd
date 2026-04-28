@@ -17,7 +17,7 @@ def test_raiz():
 
 def test_exponencial():
     assert abs(exponencial(1) - 2.718) < 0.001
-=======
+
 from calculadora import *
 
 def test_suma():
