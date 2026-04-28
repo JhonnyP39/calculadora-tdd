@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def suma(a, b):
     return a + b
 
@@ -26,7 +25,7 @@ def exponencial(x):
         termino = termino * x / i
         suma += termino
     return suma
-=======
+
 def suma(a, b):
     return a + b
 
@@ -56,4 +55,3 @@ def exponencial(x):
     return suma
     # implementación inicial
 # refactor código
->>>>>>> 3b823086489d58905058e4707491cfce270630b1
